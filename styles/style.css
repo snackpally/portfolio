@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+h2 {
+  text-align: center;
+}
+nav {
+  margin-top: 3em;
+}
+.nav-link {
+  color: black !important;
+}
+.linebreak {
+  width: 75%;
+}
+.welcome {
+  margin-top: 3em;
+}
+.portfolio {
+  margin-top: 3em;
+}
+.profile {
+  height: 30%;
+  width: auto;
+}
+.footer {
+  margin-bottom: 1em;
+}
